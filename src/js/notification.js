@@ -5,7 +5,7 @@ import * as PNotifyMobile from '@pnotify/mobile';
 defaultModules.set(PNotifyMobile, {});
 
 import { defaults } from '@pnotify/core';
-defaults.delay = 3000;
+defaults.delay = 1500;
 
 export { onFetchError, onFetchSuccess };
 
