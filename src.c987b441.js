@@ -31,4 +31,4 @@ var e,n=arguments[3];!function(t){"object"==typeof exports&&"undefined"!=typeof 
 },{"../template/cardsTpls.hbs":"T6M1","./api-service":"hC31","./load-more-btn":"vMqs","./notification":"SiMs","./basicLightbox":"NPeV"}],"Focm":[function(require,module,exports) {
 "use strict";require("./sass/main.scss"),require("@pnotify/core/dist/PNotify.css"),require("@pnotify/mobile/dist/PNotifyMobile.css"),require("@pnotify/core/dist/BrightTheme.css"),require("./js/main.js"),require("./js/basicLightbox.js");
 },{"./sass/main.scss":"clu1","@pnotify/core/dist/PNotify.css":"clu1","@pnotify/mobile/dist/PNotifyMobile.css":"clu1","@pnotify/core/dist/BrightTheme.css":"clu1","./js/main.js":"d6sW","./js/basicLightbox.js":"NPeV"}]},{},["Focm"], null)
-//# sourceMappingURL=/goit-js-hw-13-image-finder/src.ecbb71f2.js.map
+//# sourceMappingURL=/goit-js-hw-13-image-finder/src.c987b441.js.map
